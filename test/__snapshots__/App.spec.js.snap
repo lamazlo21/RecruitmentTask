@@ -1,0 +1,20 @@
+exports[`Component test Renders list of errors based on state.errors 1`] = `
+<div
+  className="App">
+  <li
+    className="alert alert-danger box"
+    key="0"
+    role="alert">
+    Error
+  </li>
+  <li
+    className="alert alert-success box"
+    key="1"
+    role="alert">
+    Correct
+  </li>
+  <Form
+    cleanAlerts={[Function]}
+    sendForm={[Function]} />
+</div>
+`;
